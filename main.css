@@ -42,9 +42,6 @@ ul {
 
 
 body, heading {
-	background-image: url("image.png");
-	background-position: right top;
-	background-size: 1800px;
 	padding: 3px 0;
 	margin: 3px;
 	padding-left: 50px;
