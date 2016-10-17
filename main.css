@@ -31,12 +31,12 @@ ul {
 	display: flex;
 	flex-wrap: wrap;
 	padding: 10px;
-	background-color: #000066
+	background-color: #0000DD
 }
 
 .list-item {
   margin: 20px;
-  background-color: #0000DD
+  background-color: #000000
 }
 
 
@@ -46,5 +46,5 @@ body, heading {
 	margin: 3px;
 	padding-left: 50px;
 	font-family: 'Trebuchet MS', 'Helvetica'; 
-	background-color: black;
+	background-color: #000000;
 }
